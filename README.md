@@ -5,7 +5,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com)
 
-https://github.com/CaioCunha10/CaioCunha10/blob/main/github-contribution-grid-snake.svg
+<img![Snake animation](https://github.com/CaioCunha10/CaioCunha10/blob/output/github-contribution-grid-snake.svg) >
 
 
 ![Caio Github](https://github-readme-stats.vercel.app/api?username=caiocunha10&show_icons=true&theme=radical)
