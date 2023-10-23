@@ -13,7 +13,7 @@
 ![Caio Github](https://github-readme-stats.vercel.app/api?username=caiocunha10&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioCunha10&bg_color=120d0f&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/caiocunha10/caiocunha10/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Caiocunha10/caiocunha10/blob/output/github-contribution-grid-snake.svg)
 
 ### <b>💻 My Technologies 🤖</b>
 <div style="display: inline-block;">
