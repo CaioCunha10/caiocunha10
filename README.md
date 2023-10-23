@@ -17,7 +17,6 @@
 
 
 ### <b>💻 My Technologies 🤖</b>
-Languages
 <div style="display: inline-block;">
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>       
