@@ -15,9 +15,6 @@
 
 ![snake gif](https://github.com/Caiocunha10/caiocunha10/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=CaioCunha10&repo=CaioCunha10)](https://github.com/CaioCunha10/CaioCunha10)
-
-
 ### <b>💻 My Technologies 🤖</b>
 <div style="display: inline-block;">
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
