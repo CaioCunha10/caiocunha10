@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCunha10&locale=pt-BR&theme=radical&show_icons=true&custom_title=Estatísticas"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioCunha10&bg_color=120d0f&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioCunha10&bg_color=120d0f&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![snake gif](https://github.com/Caiocunha10/caiocunha10/blob/output/github-contribution-grid-snake.svg)
 
