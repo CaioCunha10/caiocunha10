@@ -2,7 +2,6 @@
 
 # <b>⭐🚀Welcome to my 🌌Space Codes🌌🚀!⭐</b> 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocunha10)](https://github.com/CaioCunha10/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cunha1/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -10,6 +9,7 @@
 
 <img align="right" alt="Cowboy" height="160" src="https://camo.githubusercontent.com/7e80ce08932208936b1a853d968494d9b7234dfb06653047fa561d445c82f3d1/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4a5456317876396161645933594c774566792f323030772e77656270" data-canonical-src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp" style="max-width: 100%;">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocunha10)](https://github.com/CaioCunha10/github-readme-stats)
 
 ![Caio Github](https://github-readme-stats.vercel.app/api?username=caiocunha10&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioCunha10&bg_color=120d0f&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
