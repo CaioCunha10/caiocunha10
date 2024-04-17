@@ -7,7 +7,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com) 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: flex-end;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN1N2p6OW1nOWw5a2FzbWZjaTBkMXA4ZG11eHp0cXN4eWZieWhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF animado" style="width: 100px; height: auto;">
 </div>
 
