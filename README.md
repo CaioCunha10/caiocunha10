@@ -7,9 +7,10 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com) 
 
-<div style="display: flex; justify-content: flex-end;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN1N2p6OW1nOWw5a2FzbWZjaTBkMXA4ZG11eHp0cXN4eWZieWhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF animado" style="width: 100px; height: auto;">
+<div style="display: flex;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN1N2p6OW1nOWw5a2FzbWZjaTBkMXA4ZG11eHp0cXN4eWZieWhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF animado" style="width: 100px; height: auto; margin-left: auto;">
 </div>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCunha10&locale=pt-BR&theme=radical&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6"/>
   &nbsp;
