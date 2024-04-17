@@ -7,21 +7,11 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com) 
 
-<picture>
-  <!-- URL da imagem para o tema escuro -->
-  <source
-    srcset="URL_PARA_TEMA_ESCURO"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- URL da imagem para o tema claro ou quando não há preferência -->
-  <source
-    srcset="URL_PARA_TEMA_CLARO"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- URL da imagem padrão -->
-  <img src="URL_PADRÃO_PARA_OUTROS_CASOS" />
-</picture>
 
+picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCunha10&locale=pt-BR&theme=radical&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6"/>
