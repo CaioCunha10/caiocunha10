@@ -7,7 +7,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com) 
 
-<img align="right" alt="Cowboy" height="160" src="https://camo.githubusercontent.com/7e80ce08932208936b1a853d968494d9b7234dfb06653047fa561d445c82f3d1/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4a5456317876396161645933594c774566792f323030772e77656270" data-canonical-src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp" style="max-width: 100%;">
+![Cowboy](https://camo.githubusercontent.com/7e80ce08932208936b1a853d968494d9b7234dfb06653047fa561d445c82f3d1/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4a5456317876396161645933594c774566792f323030772e77656270)
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCunha10&locale=pt-BR&theme=radical&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6"/>
