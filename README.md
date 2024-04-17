@@ -1,20 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-# <b>⭐🚀Bem-vindo ao meu 🌌Código Espacial🌌🚀!⭐</b> 
+# <b>⭐🚀Welcome to my 🌌Spacecodes🌌🚀!⭐</b> 
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cunha1/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](caiocunhads10@gmail.com) 
 
-
-<picture>
-  <!-- Imagem para o modo escuro -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  
-  <!-- Imagem para o modo claro ou quando não há preferência de esquema de cores -->
-  <img alt="Mostra um sol ilustrado no modo de cor clara e uma lua com estrelas no modo de cor escura." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<img src="https://media.giphy.com/media/xUPGcyuhEV4T5wYaUo/giphy.gif" width="300" height="300"/>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCunha10&locale=pt-BR&theme=radical&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6"/>
