@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-# <b>⭐🚀Welcome to my 🌌Space Codes🌌🚀!⭐</b> 
+# <b>⭐🚀Bem-vindo ao meu 🌌Código Espacial🌌🚀!⭐</b> 
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cunha1/)
@@ -26,7 +26,7 @@
 
 ![snake gif](https://github.com/Caiocunha10/caiocunha10/blob/output/github-contribution-grid-snake.svg)
 
-### <b>💻 My Technologies 🤖</b>
+### <b>💻 Minhas Tecnologias 🤖</b>
 <div style="display: inline-block;">
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>       
@@ -39,9 +39,3 @@
 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-
-  
-    
-
-    
